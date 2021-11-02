@@ -29,7 +29,7 @@ namespace LMS_Project
                          select new Stud()
                          {
                              Id = int.Parse(item.Element("id").Value),
-                             Name = item.Element("name").Value,
+                             Passwd = item.Element("passwd").Value,
                              Sub1 = item.Element("sub1").Value,
                              Sub1Day = item.Element("sub1Day").Value,
                              Sub1Time = item.Element("sub1Time").Value,
@@ -69,7 +69,7 @@ namespace LMS_Project
             {
                 studsOutput += "<stud>\n";
                 studsOutput += "<id>" + item.Id + "</id>\n";
-                studsOutput += "<name>" + item.Name + "</name>\n";
+                studsOutput += "<passwd>" + item.Passwd + "</passwd>\n";
                 studsOutput += "<sub1>" + item.Sub1 + "</sub1>\n";
                 studsOutput += "<sub1Day>" + item.Sub1Day + "</sub1Day>\n";
                 studsOutput += "<sub1Time>" + item.Sub1Time + "</sub1Time>\n";

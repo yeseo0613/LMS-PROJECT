@@ -9,7 +9,7 @@ namespace LMS_Project
     class Stud
     {
         public int Id { get; set; }
-        public string Name { get; set; }
+        public string Passwd { get; set; }
         public string Sub1 { get; set; }
         public string Sub1Day { get; set; }
         public string Sub1Time { get; set; }

@@ -21,12 +21,12 @@ namespace LMS_Project
         private void button1_Click(object sender, EventArgs e)
         {
             Stud stud = DataManager.Studs.Single(x => x.Id.ToString() == textBox1.Text);
-            if (stud.Name == textBox2.Text)
+            if (stud.Passwd == textBox2.Text)
             {
                 new Form2().ShowDialog();
             }
             else
-                MessageBox.Show("로그인 실패");
+                MessageBox.Show("아이디 혹은 비밀번호가 일치하지 않습니다.");
         }
     }
 }

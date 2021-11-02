@@ -54,8 +54,6 @@ namespace LMS_Project
                     stud.Sub1Day = textBox2.Text;
                     stud.Sub1Time = textBox3.Text;
 
-                    //Sub sub = DataManager.Subs.Single(x => x.subName == textBox1.Text);
-                    //sub.curNum++;
                     DataManager.Save();
                     dataGridView1.DataSource = null;
                     dataGridView1.DataSource = DataManager.Subs;

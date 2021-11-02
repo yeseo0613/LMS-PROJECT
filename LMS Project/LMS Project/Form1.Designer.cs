@@ -39,20 +39,20 @@ namespace LMS_Project
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(220, 162);
+            this.label1.Location = new System.Drawing.Point(214, 162);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(37, 15);
+            this.label1.Size = new System.Drawing.Size(52, 15);
             this.label1.TabIndex = 0;
-            this.label1.Text = "학번";
+            this.label1.Text = "아이디";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(220, 212);
+            this.label2.Location = new System.Drawing.Point(199, 212);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(37, 15);
+            this.label2.Size = new System.Drawing.Size(67, 15);
             this.label2.TabIndex = 1;
-            this.label2.Text = "이름";
+            this.label2.Text = "비밀번호";
             // 
             // textBox1
             // 
