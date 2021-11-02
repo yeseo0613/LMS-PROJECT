@@ -1,0 +1,12 @@
+C:\Users\kimsl\source\repos\LMS Project\LMS Project\bin\Debug\LMS Project.exe.config
+C:\Users\kimsl\source\repos\LMS Project\LMS Project\bin\Debug\LMS Project.exe
+C:\Users\kimsl\source\repos\LMS Project\LMS Project\bin\Debug\LMS Project.pdb
+C:\Users\kimsl\source\repos\LMS Project\LMS Project\obj\Debug\LMS Project.csproj.AssemblyReference.cache
+C:\Users\kimsl\source\repos\LMS Project\LMS Project\obj\Debug\LMS_Project.Form1.resources
+C:\Users\kimsl\source\repos\LMS Project\LMS Project\obj\Debug\LMS_Project.Form2.resources
+C:\Users\kimsl\source\repos\LMS Project\LMS Project\obj\Debug\LMS_Project.Properties.Resources.resources
+C:\Users\kimsl\source\repos\LMS Project\LMS Project\obj\Debug\LMS Project.csproj.GenerateResource.cache
+C:\Users\kimsl\source\repos\LMS Project\LMS Project\obj\Debug\LMS Project.csproj.CoreCompileInputs.cache
+C:\Users\kimsl\source\repos\LMS Project\LMS Project\obj\Debug\LMS Project.exe
+C:\Users\kimsl\source\repos\LMS Project\LMS Project\obj\Debug\LMS Project.pdb
+C:\Users\kimsl\source\repos\LMS Project\LMS Project\obj\Debug\LMS_Project.Form3.resources
